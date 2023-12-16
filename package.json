@@ -1,0 +1,16 @@
+{
+  "name": "adivina_numero_secreto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
